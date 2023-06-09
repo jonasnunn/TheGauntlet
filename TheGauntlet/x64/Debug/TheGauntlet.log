@@ -1,0 +1,8 @@
+﻿  Enemy.cpp
+  Game.cpp
+  Input.cpp
+  Player.cpp
+  TheGauntlet.cpp
+C:\Users\Jonas\Desktop\School\c++\TheGauntlet\TheGauntlet\TheGauntlet.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  TheGauntlet.vcxproj -> C:\Users\Jonas\Desktop\School\c++\TheGauntlet\x64\Debug\TheGauntlet.exe
